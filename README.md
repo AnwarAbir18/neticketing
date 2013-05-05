@@ -1,4 +1,0 @@
-neticketing
-===========
-
-Online Ticketing
